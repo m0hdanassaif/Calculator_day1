@@ -10,6 +10,9 @@ Used super easy javascript to build a perfect Calculator
 
 **Server:** LiveServer
 
+**Other Sites:** culrs.com, iconbuddy.app ,fonts.google.com
+
+
 
 ## Authors
 

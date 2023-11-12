@@ -53,14 +53,14 @@
     justify-content: space-between;
 }
 
-.outputs .outputarea #input_num{
-color: #ba9c00;
+.outputs .outputarea #input_num {
+    color: #ba9c00;
 }
 
-.outputs .outputarea #output_num{
+.outputs .outputarea #output_num {
     color: #65b168;
-    }
-    
+}
+
 
 .outputs .abortOpts {
     display: flex;
@@ -85,7 +85,7 @@ color: #ba9c00;
     padding: 10px 5px;
 }
 
-.inputOperators .box{
+.inputOperators .box {
     background-color: #ba9c00;
     width: 35px;
     height: 35px;
@@ -95,7 +95,7 @@ color: #ba9c00;
     border-radius: 8px;
     cursor: pointer;
 }
- 
+
 
 
 .container2 {
